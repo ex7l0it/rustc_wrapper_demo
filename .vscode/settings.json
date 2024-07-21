@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.server.extraEnv": { 
+        "RUSTUP_TOOLCHAIN": "nightly-x86_64-unknown-linux-gnu",
+    },
+    "rust-analyzer.rustc.source": "discover",
+}
